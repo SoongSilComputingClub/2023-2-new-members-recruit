@@ -18,4 +18,4 @@ SSCC 2023년 2학기 신규 회원 신청자 대상 Github repo입니다.
 5. PR을 보낸 링크를 복사하여 아래 구글폼 PR 제출란에 적는다.
 
 ### 신규 회원 가입 신청서
-`:: require Google Form Link ::`
+https://forms.gle/dQ5r9miN4Fqqeqzr5
