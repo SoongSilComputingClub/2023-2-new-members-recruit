@@ -19,3 +19,5 @@ SSCC 2023년 2학기 신규 회원 신청자 대상 Github repo입니다.
 
 ### 신규 회원 가입 신청서
 https://forms.gle/dQ5r9miN4Fqqeqzr5
+
+3,4학년 되어서도 AI학과 친구들과 활동하고 싶습니다.
